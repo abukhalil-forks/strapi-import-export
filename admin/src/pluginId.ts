@@ -1,1 +1,1 @@
-export const PLUGIN_ID = 'strapi-import-export';
+export const PLUGIN_ID = 'import-export-entities';

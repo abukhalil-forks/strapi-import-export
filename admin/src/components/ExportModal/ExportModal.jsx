@@ -18,7 +18,7 @@ import { handleRequestErr } from '../../utils/error';
 import { Editor } from '../Editor';
 
 const DEFAULT_OPTIONS = {
-  exportFormat: dataFormats.JSON_V2,
+  exportFormat: dataFormats.CSV,
   applyFilters: false,
   relationsAsId: false,
   deepness: 5,

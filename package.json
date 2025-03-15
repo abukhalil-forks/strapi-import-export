@@ -1,10 +1,10 @@
 {
-  "name": "strapi-import-export",
-  "version": "0.0.1",
+  "name": "import-export-entities",
+  "version": "1.0.1",
   "description": "Import export for strapi 5",
   "keywords": [],
   "license": "MIT",
-  "author": "Graeme Fulton <graeme@prototypr.io>",
+  "author": "Yahya Abu Khalil <abukhaleel.yahya@gmail.com>",
   "type": "commonjs",
   "exports": {
     "./package.json": "./package.json",
@@ -65,7 +65,7 @@
   },
   "strapi": {
     "kind": "plugin",
-    "name": "strapi-import-export",
+    "name": "import-export-entities",
     "displayName": "Import Export",
     "description": "Import export for strapi 5"
   }

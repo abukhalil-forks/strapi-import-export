@@ -1,2 +1,2 @@
-const pluginId = 'strapi-import-export';
+const pluginId = 'import-export-entities';
 export default pluginId;
